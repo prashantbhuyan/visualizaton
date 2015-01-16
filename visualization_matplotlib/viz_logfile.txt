@@ -1,0 +1,188 @@
+
+Raw Image # 2 W/O Threshold:
+
+
+[[[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ [[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ [[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ ..., 
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]
+
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]
+
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]] 
+
+
+Binary Conversion of Image # 2 W/ Threshold:
+
+
+[[[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ ..., 
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]] 
+
+
+There are 8 objects in image # 2 above. 
+
+
+Here are Objects (Slices) for image # 2 above. 
+[[[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ ..., 
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]]
+The Coordinates for the Center of Mass for each of the 8 objects in image # 2 above are: 
+[(74.199597634708283, 508.52839876421422, 1.0), (160.01105305161141, 182.68413826777532, 1.0), (149.0711809256174, 410.76549293323882, 1.0), (312.40491737265364, 163.12116174191368, 1.0), (370.01446985375662, 418.22942555943456, 1.0), (292.9229580860802, 266.31016011897026, 1.0), (399.44180014939002, 93.887604780479705, 1.0), (437.51643213320983, 169.39281441997113, 1.0)]
+********BREAK******** 
+
+    timeint  requests
+17        0       684
+18        1       434
+19        2       399
+23        3       248
+21        4       347
+20        5       374
+22        6       303
+16        7       846
+9         8      1994
+7         9      3096
+6        10      3209
+5        11      3820
+4        12      3827
+1        13      4391
+0        14      4716
+2        15      4284
+3        16      4042
+8        17      2793
+10       18      1820
+11       19      1493
+12       20      1310
+15       21      1015
+14       22      1117
+13       23      1185
